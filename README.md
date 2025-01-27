@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MukeshSamrdha
+- 👋 Hi, I’m @MukeshSamardha
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Reactjs
 - 📫 How to reach me  mukeshsamardhaginne@gmail.com
